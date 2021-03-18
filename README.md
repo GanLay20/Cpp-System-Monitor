@@ -7,7 +7,7 @@ Follow along with the classroom lesson to complete the project!
 ![System Monitor](images/monitor.png)
 
 # Check My Final Output...
-![System Monitor](images/final result.png)
+![System Monitor](images/finalresult.png)
 
 ## Udacity Linux Workspace
 [Udacity](https://www.udacity.com/) provides a browser-based Linux [Workspace](https://engineering.udacity.com/creating-a-gpu-enhanced-virtual-desktop-for-udacity-497bdd91a505) for students. 

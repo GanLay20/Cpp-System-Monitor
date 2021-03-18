@@ -26,8 +26,6 @@ This project uses [Make](https://www.gnu.org/software/make/). The Makefile has f
 * `clean` deletes the `build/` directory, including all of the build artifacts
 
 
-## My Final Result
-![System Monitor](images/finalresult.png)
 
 ## Instructions
 
@@ -43,3 +41,6 @@ This project uses [Make](https://www.gnu.org/software/make/). The Makefile has f
 5. Implement the `System`, `Process`, and `Processor` classes, as well as functions within the `LinuxParser` namespace.
 
 6. Submit!
+
+## My Final Result
+![System Monitor](images/finalresult.png)
